@@ -1,0 +1,10 @@
+.hero-section {
+    background-color: black;
+    color: white;
+    padding: 8rem 0;
+    height: calc(100vh - var(--header-height));
+}
+
+.hero-img-card {
+    max-width: 750px;
+}

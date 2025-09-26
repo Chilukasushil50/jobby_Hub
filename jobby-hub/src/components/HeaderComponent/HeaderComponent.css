@@ -1,0 +1,21 @@
+.header-section{
+    height: var(--header-height);
+    background-color: rgb(30, 29, 29);
+}
+
+.logo-wrap{
+    max-width: 120px;
+}
+
+.header-nav-list{
+    gap: 20px;
+}
+
+.header-nav-list a{
+    color: white;
+    transition: 0.3s all;
+}
+
+.header-nav-list a:hover{
+    color: black;
+}

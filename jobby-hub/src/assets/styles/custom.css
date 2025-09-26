@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 10px;
+}
+
+body{
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+}
+
+ul,ol{
+    margin: 0;
+    padding: 0;
+}
+
+ul li,ol li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+svg{
+    width: inherit;
+    height: inherit;
+}
+
+a{
+    text-decoration: none;
+}
+
+.main{
+    margin-top: var(--header-height);
+}
+
+h1,.h1{
+    font-size: 4.2rem;
+}

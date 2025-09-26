@@ -1,0 +1,22 @@
+.input-label{
+    font-size: 12px
+}
+
+.custom-input{
+    font-size: 16px;
+    color: #64748b;
+    background-color: transparent;
+    outline: none;
+    border: 1px solid #64748b;
+    height: 45px;
+    border-radius: 3px;
+    padding: 10px 15px;
+}
+
+.custom-input input{
+    font-size: 16px;
+    color: #64748b;
+    border: 0;
+    background-color: transparent;
+    outline: none;
+}

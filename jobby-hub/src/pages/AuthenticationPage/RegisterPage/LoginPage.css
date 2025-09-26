@@ -1,0 +1,24 @@
+.login-section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--black);
+}
+
+.login-wrapper{
+    background-color:  #2c364c;
+    max-width: 450px;
+    margin: 0 auto;
+    border-radius: 8px;
+    padding: 4rem;
+}
+
+.logo-wrapper{
+    max-width: 200px;
+    margin-bottom: 4rem;
+}
+
+.form-wrapper{
+    gap: 20px;
+}
